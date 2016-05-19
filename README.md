@@ -2,6 +2,7 @@ cdn-streaming
 =============
 
 Diagram
+
   Stream Editor --> Encoder --> Origin <-- Origin Area-N <-- Edge Area-N
   
 
